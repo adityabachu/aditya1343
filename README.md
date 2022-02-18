@@ -16,7 +16,7 @@ c,
 java,
 python,
 SQL,
-Spreadsheets,
+Microsoft Excel,
 Tableau
 
  
